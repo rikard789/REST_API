@@ -13,7 +13,7 @@ or
 >*localhost:PORT* 
 where PORT is port you set in app.js .
 
-After clicking enter you should be albe to see site with instructions about how to use this application.
+After clicking enter you should be albe to see site with instructions about how to use this application.\n
 There are few things you can do:
 1. You can find words in collection when you write in search bar:
 >*localhost:5000/showUniq*
