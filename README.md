@@ -31,7 +31,7 @@ or find words with repetitions when you write in search bar: <br />
 <br />
 <br />
 
-**Sequence of installation and packages configuration** <br />
+**Instalation** <br />
 1.Node.js Installation <br />
 I installed previous version of node.js because of some problems with compatibility. <br />
 Link which I used: https://nodejs.org/dist/v14.17.1/node-v14.17.1-x64.msi <br />
