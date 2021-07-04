@@ -8,17 +8,18 @@ Application is used to create server on which we gather our collection of words.
 First you have to start server by writing (in bash terminal which is in the folder with our app.js file and static folder) command:
 *node app*
 Then you should start browser and write in search bar:
->*localhost:5000* 
-or 
->*localhost:PORT* 
+>*localhost:5000* <br />
+or <br />
+>*localhost:PORT* <br />
 where PORT is port you set in app.js .
 
 After clicking enter you should be albe to see site with instructions about how to use this application.<br />
 There are few things you can do:
 1. You can find words in collection when you write in search bar:
->*localhost:5000/showUniq*
+>*localhost:5000/showUniq* <br />
 <p> or find words with repetitions when you write in search bar: </p>
-<p>>*localhost:5000/show*</p> <br />
+>*localhost:5000/show*
+<br />
 2. You can add words to collection when you write in search bar:
 >*localhost:5000/add/something* where something is a word you want to add to collection.
 3. You can remove words from collection when you write in search bar:
