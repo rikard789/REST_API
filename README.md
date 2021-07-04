@@ -8,7 +8,7 @@ Application is used to create server on which we gather our collection of words.
 First you have to start server by writing (in bash terminal which is in the folder with our app.js file and static folder) command:
 *node app*
 Then you should start browser and write in search bar:
-*localhost:5000* or *localhost:PORT* where PORT is port you set in app.js .
+>*localhost:5000* or *localhost:PORT* where PORT is port you set in app.js .
 
 After clicking enter you should be albe to see site with instructions about how to use this application.
 There are few things you can do:
@@ -25,4 +25,4 @@ or find words with repetitions when you write in search bar:
 
 
 
-**Tested only on Windows
+**Tested only on Windows**
