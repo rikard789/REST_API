@@ -18,8 +18,8 @@ There are few things you can do:
 1. You can find words in collection when you write in search bar: <br />
 ```*localhost:5000/showUniq*``` <br />
 or find words with repetitions when you write in search bar: <br />
-``` *localhost:5000/show* ```
-<br />
+``` *localhost:5000/show* ```<br />
+
 2. You can add words to collection when you write in search bar:<br />
 ```*localhost:5000/add/something*``` where something is a word you want to add to collection.<br />
  
