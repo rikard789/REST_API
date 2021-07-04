@@ -23,4 +23,6 @@ or find words with repetitions when you write in search bar:
 4. You can get amount of appearances of the word in the collection when you write in search bar:
 *localhost:5000/count/something* where something is the word you want get count of appearances
 
+
+
 **Tested only on Windows
