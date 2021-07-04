@@ -5,12 +5,12 @@ My first project created with use of JavaScript. Created to show use of basics o
 Application is used to create server on which we gather our collection of words. Created by using node.js environment and express framework.
 
 **How to use** <br />
-First you have to start server by writing ( in bash terminal which is in the folder with our app.js file and static folder ) command: <br />
+First you have to start server by writing ( in bash terminal which is in the folder with our app.js file and static folder ) command: 
 ```*node app*``` <br />
 Then you should start browser and write in search bar:
-```*localhost:5000* ```<br />
-or <br />
-```*localhost:PORT*``` <br />
+```*localhost:5000* ```
+or 
+```*localhost:PORT*``` 
 where PORT is port you set in app.js .
 
 After clicking enter you should be albe to see site with instructions about how to use this application.<br />
