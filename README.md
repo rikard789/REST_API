@@ -18,14 +18,17 @@ There are few things you can do:
 1. You can find words in collection when you write in search bar:
 >*localhost:5000/showUniq* <br />
 or find words with repetitions when you write in search bar: <br />
->*localhost:5000/show*
+> *localhost:5000/show*
+> 
 <br />
 2. You can add words to collection when you write in search bar:<br />
->*localhost:5000/add/something* where something is a word you want to add to collection.<br />
+> *localhost:5000/add/something* where something is a word you want to add to collection.<br />
+> 
 3. You can remove words from collection when you write in search bar:<br />
->*localhost:5000/remove/something* where something is a word you want to remove from collection.<br />
+> *localhost:5000/remove/something* where something is a word you want to remove from collection.<br />
+> 
 4. You can get amount of appearances of the word in the collection when you write in search bar:<br />
->*localhost:5000/count/something* where something is the word you want get count of appearances<br />
+> *localhost:5000/count/something* where something is the word you want get count of appearances<br />
 <br />
 
 
