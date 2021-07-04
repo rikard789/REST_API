@@ -28,7 +28,7 @@ where something is a word you want to remove from collection.
 4. You can get amount of appearances of the word in the collection when you write in search bar:
 >*localhost:5000/count/something* 
 where something is the word you want get count of appearances
-
+<br />
 
 
 **Tested only on Windows**
