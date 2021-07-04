@@ -18,7 +18,7 @@ There are few things you can do:
 1. You can find words in collection when you write in search bar:
 >*localhost:5000/showUniq*
 <p> or find words with repetitions when you write in search bar: </p>
->*localhost:5000/show* <br />
+<p>>*localhost:5000/show*</p> <br />
 2. You can add words to collection when you write in search bar:
 >*localhost:5000/add/something* where something is a word you want to add to collection.
 3. You can remove words from collection when you write in search bar:
