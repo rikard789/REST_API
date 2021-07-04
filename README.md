@@ -17,17 +17,17 @@ After clicking enter you should be albe to see site with instructions about how 
 There are few things you can do:
 1. You can find words in collection when you write in search bar:
 >*localhost:5000/showUniq*
-or find words with repetitions when you write in search bar:
+<br />or find words with repetitions when you write in search bar:
 >*localhost:5000/show*
 2. You can add words to collection when you write in search bar:
 >*localhost:5000/add/something* 
-where something is a word you want to add to collection.
+<br />where something is a word you want to add to collection.
 3. You can remove words from collection when you write in search bar:
 >*localhost:5000/remove/something* 
-where something is a word you want to remove from collection.
+<br />where something is a word you want to remove from collection.
 4. You can get amount of appearances of the word in the collection when you write in search bar:
 >*localhost:5000/count/something* 
-where something is the word you want get count of appearances
+<br />where something is the word you want get count of appearances
 <br />
 
 
