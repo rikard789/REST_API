@@ -6,11 +6,11 @@ Application is used to create server on which we gather our collection of words.
 
 **How to use** <br />
 First you have to start server by writing (in bash terminal which is in the folder with our app.js file and static folder) command:
-```*node app*```
+>```*node app*```
 Then you should start browser and write in search bar:
-```*localhost:5000* ```<br />
+>```*localhost:5000* ```<br />
 or <br />
-```*localhost:PORT*``` <br />
+>```*localhost:PORT*``` <br />
 where PORT is port you set in app.js .
 
 After clicking enter you should be albe to see site with instructions about how to use this application.<br />
