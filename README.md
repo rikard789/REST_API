@@ -20,14 +20,11 @@ There are few things you can do:
 <br />or find words with repetitions when you write in search bar:
 >*localhost:5000/show*
 2. You can add words to collection when you write in search bar:
->*localhost:5000/add/something* 
-<br />where something is a word you want to add to collection.
+>*localhost:5000/add/something* where something is a word you want to add to collection.
 3. You can remove words from collection when you write in search bar:
->*localhost:5000/remove/something* 
-<br />where something is a word you want to remove from collection.
+>*localhost:5000/remove/something* where something is a word you want to remove from collection.
 4. You can get amount of appearances of the word in the collection when you write in search bar:
->*localhost:5000/count/something* 
-<br />where something is the word you want get count of appearances
+>*localhost:5000/count/something* where something is the word you want get count of appearances
 <br />
 
 
